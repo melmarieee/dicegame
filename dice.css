@@ -3,7 +3,8 @@ body{
     height: 100vh;
     position:relative;
     overflow: hidden;
-    background-image: url(bg2.jpeg);
+    background-image: url(bg3.jpeg);
+    color: antiquewhite;
 }
 
 .dice{
